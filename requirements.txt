@@ -1,0 +1,19 @@
+lxml
+beautifulsoup4
+requests
+html5lib
+numpy
+pandas
+selenium
+clickhouse-driver
+clickhouse_connect
+pyppeteer
+pyppeteer_stealth
+Scrapy
+airflow-clickhouse-plugin[pandas]
+
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dgsoroka/airflow-composer.git
+git push -u origin main
